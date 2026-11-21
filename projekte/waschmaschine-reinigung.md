@@ -14,7 +14,8 @@
 
 ## Problem
 - Wäsche riecht muffig
-- Flusensieb komplett mit Fremdkörpern zugesetzt, ließ sich nicht mehr herausdrehen
+- Flusensieb komplett mit Fremdkörpern zugesetzt (Münzen, abgebrochene Bleistifte, Plastikteile von Spielzeug), ließ sich nicht mehr herausdrehen
+- Pumpenrad dreht frei, mit spürbarer magnetischer Raststellung. Das ist normal und ein gutes Zeichen
 
 ## Erledigt (21.11.2026)
 - [x] Altes Flusensieb entfernt, **neues Flusensieb** eingesetzt
@@ -31,7 +32,14 @@
 - [ ] Test mit normaler Wäsche: Riecht sie noch?
 - [ ] Falls sie noch riecht: Ablaufschlauch hinten und den Anschluss am Siphon prüfen bzw. reinigen
 
+## Fremdkörper hinter der Trommel?
+- [ ] **Hörtest:** Stecker ziehen, Trommel langsam von Hand in beide Richtungen drehen. Hört man Kratzen, Klappern oder Klirren?
+- [ ] Mit einer Taschenlampe durch die Trommellöcher schauen, vor allem unten
+- [ ] Beim nächsten Schleudern auf Rasseln achten
+- [ ] Nur wenn etwas zu hören ist: Rückwand abschrauben, **Heizstab ausbauen** und den Fremdkörper durch die Öffnung herausfischen. Vorher Dichtung des Heizstabs als Ersatzteil besorgen
+
 ## Damit es nicht wiederkommt
+- Taschen leeren, auch bei Kindersachen. Kleinteile in einem Wäschenetz waschen
 - Mindestens einmal im Monat mit **60 °C und Vollwaschmittel als Pulver** waschen (das Bleichmittel darin tötet den Biofilm ab)
 - Alle 1–2 Monate eine leere Hygienewäsche mit 90 °C
 - Weichspüler und Flüssigwaschmittel sparsam verwenden, weil sie Biofilm fördern
