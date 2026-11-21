@@ -25,9 +25,7 @@
 
 ## Nächste Schritte
 - [ ] Gut lüften, Verschlusskappe der Notentleerung fest drauf, Sieb ganz eingedreht
-- [ ] **Abpumpen** (oder nur Schleudern) laufen lassen, damit die Essig-Chlor-Reste aus dem Pumpenbereich rauskommen
-- [ ] Eine Kanne Wasser in den Schubladenschacht gießen und noch einmal abpumpen
-- [ ] **Leere Kochwäsche mit 90 °C** und dem Dr. Beckmann Reiniger
+- [ ] **Leere Kochwäsche mit 90 °C** und dem Dr. Beckmann Reiniger. Ohne vorher abzupumpen, sonst wäre der Reiniger weg. Dabei Fenster auf, Tür zu und nicht im Raum bleiben
 - [ ] **Türmanschette** (Gummi) prüfen: Falten auseinanderziehen, Schleim und Schimmel abwischen
 - [ ] Nach dem Lauf: Flusensieb noch einmal kontrollieren
 - [ ] Test mit normaler Wäsche: Riecht sie noch?
