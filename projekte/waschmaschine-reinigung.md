@@ -32,6 +32,8 @@
 - [ ] **Leere Kochwäsche mit 90 °C** und dem Dr. Beckmann Reiniger. Ohne vorher abzupumpen, sonst wäre der Reiniger weg. Dabei Fenster auf, Tür zu und nicht im Raum bleiben
 - [ ] **Türmanschette** (Gummi) prüfen: Falten auseinanderziehen, Schleim und Schimmel abwischen
 - [ ] Nach dem Lauf: Flusensieb noch einmal kontrollieren
+- [ ] Nach ca. 17 Jahren ohne Grundreinigung: **2–3 leere Durchgänge mit 90 °C** einplanen, z. B. an mehreren Tagen hintereinander, beim 2. und 3. mit Vollwaschmittel als Pulver
+- [ ] Mit der Taschenlampe **oben in den Schubladenschacht** leuchten. An dessen Decke, an den Wasserdüsen, sitzt oft schwarzer Schimmel. Mit einer alten Zahnbürste abschrubben
 - [ ] Test mit normaler Wäsche: Riecht sie noch?
 - [ ] Falls sie noch riecht: Ablaufschlauch hinten und den Anschluss am Siphon prüfen bzw. reinigen
 
