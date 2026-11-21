@@ -12,3 +12,5 @@
 | Waschmaschine Türmanschette wischen | monatlich | | |
 | Dunstabzugsfilter | quartalsweise | | |
 | Entkalken (Wasserkocher, Kaffee) | monatlich | | |
+| Trockner: Flusensieb in der Tür | nach jedem Trocknen | | |
+| Trockner: Wärmetauscher ausspülen | alle 1–2 Monate | | |
