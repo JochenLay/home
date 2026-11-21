@@ -37,6 +37,7 @@
 ## Recherche Ersatzteil Tür (21.11.2026)
 - **00445420 „Türglas“** ist das **innere Glas-Bullauge** (Glas, ca. 2,5 kg) und **nicht** die äußere Kunststoffscheibe
 - Bei manchen Händlern wird ein **„Türring außen, weiß“** für WTE86103/30–/47 angeboten. Unklar ist, ob er die Klarsichtscheibe enthält ([Nettoparts](https://www.nettoparts.de/shop/turring-bosch-waschetrockner-65649p.html))
+- ✅ **Richtiges Teil: 00661324** „Türglas / Abdeckung Tür außen“: die runde, durchsichtige äußere Abdeckung. Für WTE86103/32 gelistet. Preis ca. 43–50 € ([fixpart](https://fixpart.de/produkt/bosch-siemens-00661324-turglas-trockner), [ersatzteilshop.de](https://www.ersatzteilshop.de/ersatzteile-fuer/bosch/wte86103-32.html)). **Einen Durchmesser nennt kein Händler**, deshalb selbst messen
 - Am sichersten: Explosionszeichnung zur E-Nr. **WTE86103/32** ansehen oder einen Händler bzw. den BSH-Kundendienst mit E-Nr., FD und Foto fragen
 
 ## Anbieter für runde Polycarbonat-Zuschnitte
