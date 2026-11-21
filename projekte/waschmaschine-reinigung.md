@@ -53,5 +53,8 @@
 - Nach dem Waschen **Tür und Schublade offen lassen**
 - Flusensieb alle 2–3 Monate reinigen
 
+## Entscheidung (21.11.2026)
+**Die Maschine läuft weiter, solange sie funktioniert.** Pflege und Reinigung ja, größere Reparaturen nein, zum Beispiel Lager, Motor, Elektronik oder Heizstab tauschen. Bei einem größeren Defekt wird eine neue Maschine gekauft.
+
 ## Lektion
 ⚠️ **Nie Essig (oder andere Säuren) mit Chlorreiniger mischen**, weil dabei Chlorgas entsteht. Immer nur **ein** Mittel verwenden und danach mit Wasser nachspülen.
