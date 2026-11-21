@@ -34,6 +34,12 @@
 - [ ] Ersatzteil für die äußere Türscheibe bzw. den Türring über die E-Nr. suchen und Preis prüfen
 - [ ] Testlauf
 
+## Optional: vergilbtes Plastik aufhellen
+- [ ] Erst gründlich reinigen (Fettlöser, vorsichtig mit dem Schmutzradierer). Oft ist ein Teil der Verfärbung nur Schmutz
+- [ ] Wenn es danach noch gelb ist: „Retrobright“, also **Wasserstoffperoxid-Creme 12 %** (Friseurbedarf, „Oxidant/Entwickler“) dünn auftragen, mit Frischhaltefolie abdecken und 4–8 h in die Sonne oder unter eine UV-Lampe legen. Danach abspülen
+- Nur abgebaute Teile behandeln und zuerst an einer versteckten Stelle testen, besonders bei bedruckten Blenden
+- Handschuhe und Schutzbrille tragen. Das Plastik kann spröder werden und nach Jahren wieder vergilben
+
 ## Material & Kosten
 | Was | Wo | Preis | Gekauft |
 |---|---|---|---|
