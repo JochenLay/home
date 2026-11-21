@@ -23,4 +23,9 @@
 - **Hauptwasserhahn:** Standort
 - **Heizung:** Art
 
+## Geräte
+| Gerät | Modell | Baujahr | Notiz |
+|---|---|---|---|
+| Waschmaschine | Bosch Maxx 7, WAE28164/41 | ca. 2009 | siehe [Projekt](projekte/waschmaschine-reinigung.md) |
+
 ## Notizen

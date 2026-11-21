@@ -19,6 +19,6 @@ Zentrale Sammlung für alles rund ums Wohnen: Projekte, Räume, Verträge, Konta
 
 | Projekt | Status | Priorität | Budget |
 |---|---|---|---|
-| _noch keine_ | | | |
+| [Waschmaschine reinigen & reparieren](projekte/waschmaschine-reinigung.md) | 🔨 In Arbeit | hoch | gering |
 
 Status: 💡 Idee · 📋 Geplant · 🔨 In Arbeit · ⏸️ Pausiert · ✅ Erledigt
