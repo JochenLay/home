@@ -1,6 +1,6 @@
 # Trockner reparieren
 
-- **Status:** 📋 Geplant
+- **Status:** 📋 Geplant (Diagnose: Riemen)
 - **Priorität:** mittel
 - **Raum:** Bad
 - **Budget:** Riemen ca. 10–20 €, Türteil je nach Ersatzteil
@@ -21,7 +21,7 @@
 - Lose Kunststoffsplitter an der Tür vorsichtig entfernen, weil sie scharfkantig sind
 
 ## Diagnose
-- [ ] Stecker ziehen. **Trommel von Hand drehen:**
+- [x] Stecker ziehen. **Trommel von Hand drehen** (21.11.2026, Video): Die Trommel dreht sich mit leichten Handstößen mühelos → **Riemen sehr wahrscheinlich gerissen**
   - lässt sich **ganz leicht** und ohne Widerstand drehen → Riemen ist gerissen oder abgesprungen
   - spürbarer Widerstand → Riemen ist wahrscheinlich in Ordnung, dann Spannrolle oder Motor prüfen
 - [ ] Beim Einschalten horchen: Läuft der Motor bzw. das Gebläse (Rauschen, Luftzug)?
