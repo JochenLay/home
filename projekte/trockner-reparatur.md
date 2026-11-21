@@ -34,6 +34,20 @@
 - [ ] Ersatzteil für die äußere Türscheibe bzw. den Türring über die E-Nr. suchen und Preis prüfen
 - [ ] Alternative: **Scheibe selbst machen** (siehe unten), wenn das Original teuer ist
 
+## Recherche Ersatzteil Tür (21.11.2026)
+- **00445420 „Türglas“** ist das **innere Glas-Bullauge** (Glas, ca. 2,5 kg) und **nicht** die äußere Kunststoffscheibe
+- Bei manchen Händlern wird ein **„Türring außen, weiß“** für WTE86103/30–/47 angeboten. Unklar ist, ob er die Klarsichtscheibe enthält ([Nettoparts](https://www.nettoparts.de/shop/turring-bosch-waschetrockner-65649p.html))
+- Am sichersten: Explosionszeichnung zur E-Nr. **WTE86103/32** ansehen oder einen Händler bzw. den BSH-Kundendienst mit E-Nr., FD und Foto fragen
+
+## Anbieter für runde Polycarbonat-Zuschnitte
+| Anbieter | Hinweis |
+|---|---|
+| [kunststoffplattenonline.de](https://kunststoffplattenonline.de/polycarbonat-platten/formen/) | Konfigurator mit Form „Kreis“, auch DXF-Upload |
+| [glacryl.de](https://glacryl.de/polycarbonat-zuschnitt-pc) | ab 1 mm, bohrt und bearbeitet Kanten, schon ab 1 Stück |
+| [acrylglas-shop.com](https://acrylglas-shop.com/polycarbonat-makrolon) | Zuschnitt nach Maß, Kanten wählbar |
+| [plattenzuschnitt24.de](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/) | 2–10 mm, ob Kreise möglich sind: anfragen |
+| [eBay: Makrolon-Kreise](https://www.ebay.de/itm/204971469933) | Kreise Ø 300–700 mm |
+
 ## Türscheibe selbst machen
 - Material: **Polycarbonat** (Makrolon), klar, 2–3 mm dick. Es verträgt Hitze bis ca. 120 °C und bricht nicht. Acrylglas wird bei Wärme eher spröde und reißt
 - [ ] Tür abschrauben und zerlegen (Schrauben innen am Türrand): Wie ist die alte Scheibe befestigt (Clips, Schrauben, eingeklemmt)? Ist sie **flach oder gewölbt**?
