@@ -12,6 +12,9 @@
 ![Typenschild](bilder/waschmaschine-typenschild.jpg)
 ![Flusensieb & Notentleerung](bilder/waschmaschine-flusensieb-notentleerung.jpg)
 
+## Aufbau (Skizze)
+![Aufbau Trommel](bilder/waschmaschine-aufbau.svg)
+
 ## Problem
 - Wäsche riecht muffig
 - Flusensieb komplett mit Fremdkörpern zugesetzt (Münzen, abgebrochene Bleistifte, Plastikteile von Spielzeug), ließ sich nicht mehr herausdrehen

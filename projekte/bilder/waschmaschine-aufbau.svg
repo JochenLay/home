@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 820" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c0392b"/></marker>
+    <style>
+      .cab{fill:#fafafa;stroke:#222;stroke-width:2.5}
+      .tub{fill:#dfe9f5;stroke:#2c5d8f;stroke-width:2.5}
+      .drum{fill:#f4f6f8;stroke:#555;stroke-width:2;stroke-dasharray:6 4}
+      .part{fill:#ddd;stroke:#333;stroke-width:1.6}
+      .rub{fill:none;stroke:#111;stroke-width:5}
+      .hose{fill:none;stroke:#111;stroke-width:4;stroke-linecap:round}
+      .spring{fill:none;stroke:#7a5c00;stroke-width:2}
+      .gap{fill:#e74c3c;fill-opacity:.35;stroke:none}
+      .t{font-size:20px;font-weight:bold;fill:#222}
+      .s{font-size:13px;fill:#444}
+      .n circle{fill:#fff;stroke:#2c5d8f;stroke-width:1.5}
+      .n text{font-size:11px;font-weight:bold;fill:#2c5d8f;text-anchor:middle}
+      .leg{font-size:14px;fill:#222}
+    </style>
+  </defs>
+  <rect width="1100" height="820" fill="#fff"/>
+  <text x="550" y="34" class="t" text-anchor="middle">Bosch Maxx 7 (WAE28164): So sitzt die Trommel</text>
+  <text x="550" y="54" class="s" text-anchor="middle">Schematische Skizze, nicht maßstabsgetreu. Gehäuse ca. 60 × 60 × 85 cm</text>
+
+  <!-- ============ VORDERANSICHT ============ -->
+  <text x="180" y="92" class="t" text-anchor="middle" font-size="16">Vorderansicht</text>
+  <rect class="cab" x="60" y="100" width="240" height="340"/>
+  <line x1="60" y1="140" x2="300" y2="140" stroke="#222" stroke-width="1.5"/>
+  <rect class="part" x="70" y="108" width="75" height="25"/>
+  <!-- tub & drum hidden behind front -->
+  <circle class="tub" cx="180" cy="275" r="100" fill-opacity=".6"/>
+  <circle class="drum" cx="180" cy="275" r="86"/>
+  <path class="gap" d="M94,275 A86,86 0 0 0 266,275 L280,275 A100,100 0 0 1 80,275 Z"/>
+  <rect class="part" x="140" y="168" width="80" height="16" fill="#aaa"/>
+  <!-- door -->
+  <circle cx="180" cy="275" r="66" fill="none" stroke="#222" stroke-width="3"/>
+  <circle cx="180" cy="275" r="52" fill="#cfe3f0" fill-opacity=".5" stroke="#555" stroke-width="1.5"/>
+  <!-- springs -->
+  <polyline class="spring" points="110,195 106,186 116,180 104,172 116,165 104,158 112,148"/>
+  <polyline class="spring" points="250,195 254,186 244,180 256,172 244,165 256,158 248,148"/>
+  <!-- dampers -->
+  <line x1="125" y1="365" x2="105" y2="432" stroke="#333" stroke-width="5"/>
+  <line x1="235" y1="365" x2="255" y2="432" stroke="#333" stroke-width="5"/>
+  <!-- motor -->
+  <rect class="part" x="150" y="390" width="60" height="32" rx="4"/>
+  <!-- pump / filter / emergency hose -->
+  <circle class="part" cx="272" cy="420" r="13" fill="#555"/>
+  <path class="hose" d="M245,425 L230,415" stroke-width="5"/>
+  <g class="n"><circle cx="78" cy="152" r="9"/><text x="78" y="156">1</text></g>
+  <g class="n"><circle cx="72" cy="230" r="9"/><text x="72" y="234">2</text></g>
+  <g class="n"><circle cx="110" cy="275" r="9"/><text x="110" y="279">3</text></g>
+  <g class="n"><circle cx="180" cy="275" r="9"/><text x="180" y="279">4</text></g>
+  <g class="n"><circle cx="92" cy="180" r="9"/><text x="92" y="184">6</text></g>
+  <g class="n"><circle cx="88" cy="405" r="9"/><text x="88" y="409">7</text></g>
+  <g class="n"><circle cx="232" cy="176" r="9"/><text x="232" y="180">8</text></g>
+  <g class="n"><circle cx="180" cy="406" r="9"/><text x="180" y="410">11</text></g>
+  <g class="n"><circle cx="272" cy="420" r="9"/><text x="272" y="424">14</text></g>
+  <g class="n"><circle cx="222" cy="430" r="9"/><text x="222" y="434">15</text></g>
+  <g class="n"><circle cx="157" cy="120" r="9"/><text x="157" y="124">17</text></g>
+
+  <!-- ============ SEITENANSICHT ============ -->
+  <text x="560" y="92" class="t" text-anchor="middle" font-size="16">Seitenansicht (von rechts)</text>
+  <text x="440" y="458" class="s">← vorne</text><text x="640" y="458" class="s" text-anchor="end">hinten →</text>
+  <rect class="cab" x="440" y="100" width="240" height="340"/>
+  <line x1="440" y1="140" x2="680" y2="140" stroke="#222" stroke-width="1.5"/>
+  <!-- tub -->
+  <rect class="tub" x="470" y="175" width="150" height="200" rx="14"/>
+  <!-- drum -->
+  <rect class="drum" x="484" y="189" width="122" height="172" rx="8"/>
+  <!-- gap at bottom -->
+  <rect class="gap" x="474" y="361" width="142" height="12"/>
+  <!-- heater -->
+  <rect x="500" y="364" width="118" height="6" fill="#b03a2e"/>
+  <rect x="618" y="360" width="12" height="14" fill="#b03a2e"/>
+  <!-- door & bellow -->
+  <path d="M440,195 Q425,275 440,355" fill="#cfe3f0" stroke="#222" stroke-width="3"/>
+  <path d="M440,212 Q470,275 440,338" fill="#cfe3f0" fill-opacity=".6" stroke="#555" stroke-width="1.5"/>
+  <path class="rub" d="M440,195 L452,190 L460,198 L470,192"/>
+  <path class="rub" d="M440,355 L452,360 L460,352 L470,358"/>
+  <!-- counterweight front -->
+  <rect class="part" x="470" y="160" width="40" height="18" fill="#aaa"/>
+  <!-- shaft, bearing, pulley -->
+  <rect x="606" y="266" width="26" height="16" fill="#666"/>
+  <rect x="620" y="262" width="8" height="24" fill="#333"/>
+  <rect x="632" y="200" width="8" height="148" fill="#888" stroke="#333"/>
+  <!-- belt & motor -->
+  <line x1="640" y1="205" x2="610" y2="395" stroke="#333" stroke-width="2"/>
+  <line x1="632" y1="345" x2="604" y2="407" stroke="#333" stroke-width="2"/>
+  <rect class="part" x="545" y="388" width="70" height="30" rx="4"/>
+  <!-- spring & damper -->
+  <polyline class="spring" points="545,175 541,166 551,160 539,152 551,146 541,138 547,128"/>
+  <line x1="505" y1="375" x2="500" y2="434" stroke="#333" stroke-width="5"/>
+  <!-- drawer + inlet hose -->
+  <rect class="part" x="440" y="110" width="90" height="22"/>
+  <path class="hose" d="M530,125 C560,125 575,150 580,175" stroke-width="3"/>
+  <!-- bellows hose, pump -->
+  <path class="hose" d="M490,375 C485,395 470,395 465,410" stroke-width="6" stroke-dasharray="3 2"/>
+  <rect class="part" x="444" y="405" width="40" height="26" fill="#555"/>
+  <!-- drain hose -->
+  <path class="hose" d="M484,425 L668,425 L668,300 C668,250 700,250 700,280 L700,330"/>
+  <text x="704" y="345" class="s">zum Siphon</text>
+  <!-- annotation gap -->
+  <path d="M760,395 L622,368" stroke="#c0392b" stroke-width="1.8" marker-end="url(#a)" fill="none"/>
+  <text x="764" y="392" font-size="13" fill="#c0392b" font-weight="bold">Spalt Trommel ↔ Laugenbehälter:</text>
+  <text x="764" y="409" font-size="13" fill="#c0392b">hier landen Münzen, Bügel, Kleinteile</text>
+  <g class="n"><circle cx="458" cy="152" r="9"/><text x="458" y="156">1</text></g>
+  <g class="n"><circle cx="612" cy="190" r="9"/><text x="612" y="194">2</text></g>
+  <g class="n"><circle cx="545" cy="275" r="9"/><text x="545" y="279">3</text></g>
+  <g class="n"><circle cx="426" cy="275" r="9"/><text x="426" y="279">4</text></g>
+  <g class="n"><circle cx="455" cy="372" r="9"/><text x="455" y="376">5</text></g>
+  <g class="n"><circle cx="560" cy="150" r="9"/><text x="560" y="154">6</text></g>
+  <g class="n"><circle cx="518" cy="410" r="9"/><text x="518" y="414">7</text></g>
+  <g class="n"><circle cx="490" cy="166" r="9"/><text x="490" y="170">8</text></g>
+  <g class="n"><circle cx="618" cy="250" r="9"/><text x="618" y="254">9</text></g>
+  <g class="n"><circle cx="652" cy="215" r="9"/><text x="652" y="219">10</text></g>
+  <g class="n"><circle cx="580" cy="403" r="9"/><text x="580" y="407">11</text></g>
+  <g class="n"><circle cx="650" cy="367" r="9"/><text x="650" y="371">12</text></g>
+  <g class="n"><circle cx="490" cy="393" r="9"/><text x="490" y="397">13</text></g>
+  <g class="n"><circle cx="464" cy="418" r="9"/><text x="464" y="422">14</text></g>
+  <g class="n"><circle cx="688" cy="262" r="9"/><text x="688" y="266">16</text></g>
+  <g class="n"><circle cx="485" cy="121" r="9"/><text x="485" y="125">17</text></g>
+
+  <!-- ============ DRAUFSICHT ============ -->
+  <text x="180" y="512" class="t" text-anchor="middle" font-size="16">Draufsicht (Deckel weg)</text>
+  <text x="180" y="808" class="s" text-anchor="middle">↓ vorne</text>
+  <rect class="cab" x="60" y="530" width="240" height="240"/>
+  <rect class="tub" x="80" y="565" width="200" height="150" rx="14"/>
+  <rect class="drum" x="94" y="579" width="172" height="122" rx="8"/>
+  <!-- door -->
+  <path d="M110,770 Q180,792 250,770" fill="#cfe3f0" stroke="#222" stroke-width="3"/>
+  <path class="rub" d="M100,770 L105,715 M260,770 L255,715" stroke-width="4"/>
+  <!-- counterweight -->
+  <rect class="part" x="155" y="708" width="95" height="14" fill="#aaa"/>
+  <!-- springs (seen from top) -->
+  <circle cx="110" cy="640" r="8" fill="#fff" stroke="#7a5c00" stroke-width="2"/>
+  <circle cx="250" cy="640" r="8" fill="#fff" stroke="#7a5c00" stroke-width="2"/>
+  <!-- pulley -->
+  <rect x="105" y="548" width="150" height="8" fill="#888" stroke="#333"/>
+  <rect x="172" y="556" width="16" height="10" fill="#666"/>
+  <!-- drawer -->
+  <rect class="part" x="68" y="690" width="75" height="72" fill-opacity=".8"/>
+  <g class="n"><circle cx="285" cy="545" r="9"/><text x="285" y="549">1</text></g>
+  <g class="n"><circle cx="270" cy="590" r="9"/><text x="270" y="594">2</text></g>
+  <g class="n"><circle cx="180" cy="640" r="9"/><text x="180" y="644">3</text></g>
+  <g class="n"><circle cx="180" cy="784" r="9"/><text x="180" y="788">4</text></g>
+  <g class="n"><circle cx="132" cy="640" r="9"/><text x="132" y="644">6</text></g>
+  <g class="n"><circle cx="265" cy="732" r="9"/><text x="265" y="736">8</text></g>
+  <g class="n"><circle cx="210" cy="561" r="9"/><text x="210" y="565">10</text></g>
+  <g class="n"><circle cx="105" cy="726" r="9"/><text x="105" y="730">17</text></g>
+
+  <!-- ============ LEGENDE ============ -->
+  <text x="420" y="512" class="t" font-size="16">Legende</text>
+  <g class="leg" style="white-space:pre">
+    <text x="420" y="540">1  Gehäuse</text>
+    <text x="420" y="562">2  Laugenbehälter: Kunststoffbottich, steht still, hält das Wasser</text>
+    <text x="420" y="584">3  Trommel: Edelstahl, gelocht, dreht sich im Laugenbehälter</text>
+    <text x="420" y="606">4  Tür mit Glas-Bullauge</text>
+    <text x="420" y="628">5  Türmanschette (Gummi): verbindet Laugenbehälter und Gehäuse</text>
+    <text x="420" y="650">6  Federn: Der Laugenbehälter hängt oben daran</text>
+    <text x="420" y="672">7  Stoßdämpfer: dämpfen unten das Schwingen</text>
+    <text x="420" y="694">8  Gegengewicht (Beton) gegen Unwucht</text>
+    <text x="420" y="716">9  Welle &amp; Lager: Die Trommel ist nur hinten gelagert</text>
+    <text x="420" y="738">10 Riemenscheibe + Keilrippenriemen  ·  11 Motor</text>
+    <text x="420" y="760">12 Heizstab (unten im Laugenbehälter, von hinten eingesteckt)</text>
+    <text x="420" y="782">13 Faltenschlauch  ·  14 Laugenpumpe + Flusensieb  ·  15 Notentleerung</text>
+    <text x="420" y="804">16 Ablaufschlauch  ·  17 Waschmittelschublade + Einspülschlauch</text>
+  </g>
+</svg>
