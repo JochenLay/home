@@ -39,6 +39,8 @@
 - [ ] **Hörtest:** Stecker ziehen, Trommel langsam von Hand in beide Richtungen drehen. Hört man Kratzen, Klappern oder Klirren?
 - [ ] Mit einer Taschenlampe durch die Trommellöcher schauen, vor allem unten
 - [ ] Beim nächsten Schleudern auf Rasseln achten
+- [ ] **Socke oder Stoff?** Den Hörtest bemerkt das nicht. Türmanschette unten zurückziehen und mit der Taschenlampe in den Spalt leuchten
+- [ ] Wenn es nach der Kochwäsche immer noch riecht: mit einer **Endoskopkamera** (USB, ca. 15–25 €) durch die Öffnung des Flusensiebs oder des Heizstabs nachsehen
 - [ ] Nur wenn etwas zu hören ist: Rückwand abschrauben, **Heizstab ausbauen** und den Fremdkörper durch die Öffnung herausfischen. Vorher Dichtung des Heizstabs als Ersatzteil besorgen
 
 ## Damit es nicht wiederkommt
