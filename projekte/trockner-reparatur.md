@@ -32,6 +32,15 @@
 - [ ] Wenn das Gerät offen ist: **Flusen aus dem Innenraum saugen** (nach 17 Jahren Brandgefahr!)
 - [ ] Wärmetauscher (Kondensator, Klappe unten links) ausspülen
 - [ ] Ersatzteil für die äußere Türscheibe bzw. den Türring über die E-Nr. suchen und Preis prüfen
+- [ ] Alternative: **Scheibe selbst machen** (siehe unten), wenn das Original teuer ist
+
+## Türscheibe selbst machen
+- Material: **Polycarbonat** (Makrolon), klar, 2–3 mm dick. Es verträgt Hitze bis ca. 120 °C und bricht nicht. Acrylglas wird bei Wärme eher spröde und reißt
+- [ ] Tür abschrauben und zerlegen (Schrauben innen am Türrand): Wie ist die alte Scheibe befestigt (Clips, Schrauben, eingeklemmt)? Ist sie **flach oder gewölbt**?
+- [ ] Durchmesser und Dicke messen, Befestigungspunkte und Aussparungen abzeichnen
+- [ ] Zuschnitt: Bei einem Online-Zuschnittservice „rund“ bestellen (am saubersten) oder selbst mit der Stichsäge (feines Kunststoffblatt, niedrige Drehzahl, Schutzfolie dranlassen)
+- [ ] Kanten mit Schleifpapier entgraten, Löcher langsam bohren
+- Die Scheibe schützt auch davor, sich am heißen Innenglas zu verbrennen, sie sollte also wieder rein
 - [ ] Testlauf
 
 ## Optional: vergilbtes Plastik aufhellen
