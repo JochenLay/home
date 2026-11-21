@@ -37,6 +37,14 @@
 - [ ] Test mit normaler Wäsche: Riecht sie noch?
 - [ ] Falls sie noch riecht: Ablaufschlauch hinten und den Anschluss am Siphon prüfen bzw. reinigen
 
+## Rumpeln beim Schleudern (manchmal)
+- [ ] **Leer schleudern:** Ist es dann ruhig, liegt es an Unwucht durch die Beladung und ist harmlos. Rumpelt es auch leer, kommen Lager oder Stoßdämpfer in Frage
+- [ ] **Spieltest (Stecker raus):** Trommel oben greifen und kräftig hoch und runter drücken. Spürbares Spiel oder Klacken spricht für einen Lagerschaden
+- [ ] **Drehtest:** Trommel schnell von Hand drehen. Mahlen oder Rauschen spricht für einen Lagerschaden
+- [ ] **Dämpfertest:** Trommel durch die Tür kräftig nach unten drücken und loslassen. Sie sollte ruhig zurückkommen. Federt sie nach, sind die Stoßdämpfer verschlissen (Ersatz ca. 20–30 €, gut selbst zu wechseln)
+- [ ] Maschine mit der Wasserwaage prüfen, Füße kontern, Maschine darf nicht wackeln
+- Wenn es das Lager ist, lohnt sich keine Reparatur mehr, dann wird eine neue Maschine gekauft (siehe Entscheidung)
+
 ## Fremdkörper hinter der Trommel?
 - [ ] **Hörtest:** Stecker ziehen, Trommel langsam von Hand in beide Richtungen drehen. Hört man Kratzen, Klappern oder Klirren?
 - [ ] Mit einer Taschenlampe durch die Trommellöcher schauen, vor allem unten
