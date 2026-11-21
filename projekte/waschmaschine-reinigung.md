@@ -38,6 +38,8 @@
 - [ ] Falls sie noch riecht: Ablaufschlauch hinten und den Anschluss am Siphon prüfen bzw. reinigen
 
 ## Rumpeln beim Schleudern (manchmal)
+**Vermutete Ursache:** vor allem bei sehr voller Trommel, also **Überladung bzw. Unwucht**. Regel: Über der Wäsche muss oben **eine Hand breit Platz** bleiben (max. 7 kg Baumwolle, bei Pflegeleicht nur ca. halb voll).
+
 - [ ] **Leer schleudern:** Ist es dann ruhig, liegt es an Unwucht durch die Beladung und ist harmlos. Rumpelt es auch leer, kommen Lager oder Stoßdämpfer in Frage
 - [ ] **Spieltest (Stecker raus):** Trommel oben greifen und kräftig hoch und runter drücken. Spürbares Spiel oder Klacken spricht für einen Lagerschaden
 - [ ] **Drehtest:** Trommel schnell von Hand drehen. Mahlen oder Rauschen spricht für einen Lagerschaden
@@ -54,6 +56,7 @@
 - [ ] Nur wenn etwas zu hören ist: Rückwand abschrauben, **Heizstab ausbauen** und den Fremdkörper durch die Öffnung herausfischen. Vorher Dichtung des Heizstabs als Ersatzteil besorgen
 
 ## Damit es nicht wiederkommt
+- Trommel **nicht vollstopfen**. Bei zu voller Trommel wird schlechter gespült, es bleiben mehr Waschmittelreste zurück und es riecht eher
 - Taschen leeren, auch bei Kindersachen. Kleinteile in einem Wäschenetz waschen
 - Mindestens einmal im Monat mit **60 °C und Vollwaschmittel als Pulver** waschen (das Bleichmittel darin tötet den Biofilm ab)
 - Alle 1–2 Monate eine leere Hygienewäsche mit 90 °C
