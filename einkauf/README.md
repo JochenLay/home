@@ -20,3 +20,4 @@
 - Achtung: Der Bosch ist 56 cm breit, also 1 cm zu breit. Hinten und an den Seiten ein paar cm Luft lassen
 - Preise schwanken stark. Vor dem Kauf bei Amazon, Expert, MediaMarkt und Otto vergleichen
 - Holzleitner (Josef Holzleitner Elektrogeräte GmbH & Co. KG, Mönchengladbach) ist ein seriöser Fachhändler mit ca. 8.600 Bewertungen bei Trusted Shops, 4,5/5
+- Holzleitner: **Ob ein Samstagstermin möglich ist, steht nicht auf der Website.** Vor der Bestellung beim Online-Service 02166 / 96 000 48 fragen (Mo–Fr 8–18:30, Sa 10–14 Uhr). Außerdem klären, ob die Lieferung wirklich gratis ist: Produktseite sagt „Gratis Lieferung“, die Versandkosten-Seite nennt 39 €. Im Warenkorb prüfen
