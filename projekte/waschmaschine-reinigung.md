@@ -37,6 +37,15 @@
 - [ ] Test mit normaler Wäsche: Riecht sie noch?
 - [ ] Falls sie noch riecht: Ablaufschlauch hinten und den Anschluss am Siphon prüfen bzw. reinigen
 
+## Stand 22.11.2026: Wäsche riecht nach dem Waschen immer noch muffig
+Mögliche Ursachen, der Reihe nach prüfen:
+- [ ] **Wann riecht sie?** Direkt nass aus der Maschine (→ Maschine oder Wäsche selbst) oder erst nach dem Trocknen (→ zu langsames Trocknen, Trockner ist ja kaputt)
+- [ ] **Die Wäsche selbst ist belastet:** Textilien, die jahrelang bei niedriger Temperatur gewaschen wurden, tragen den Biofilm in sich. Einmal **60 °C mit Vollwaschmittel als Pulver** waschen. Bei Buntem Sauerstoffbleiche bzw. Fleckensalz dazugeben
+- [ ] **Schnüffeltest Maschine:** an Trommel, Türmanschette (Falten!) und Schubladenschacht riechen. Wo riecht es am stärksten?
+- [ ] **Ablaufschlauch prüfen:** Er muss in einem **Bogen hoch** geführt sein (ca. 60–100 cm) und darf **nicht tief im Abfluss stecken**. Sonst zieht Abwasser oder Kanalgeruch in die Maschine zurück
+- [ ] Weitere leere Kochwäschen mit 90 °C (siehe oben)
+- [ ] Wäsche **sofort** nach Programmende rausnehmen und luftig, schnell trocknen
+
 ## Rumpeln beim Schleudern (manchmal)
 **Vermutete Ursache:** vor allem bei sehr voller Trommel, also **Überladung bzw. Unwucht**. Regel: Über der Wäsche muss oben **eine Hand breit Platz** bleiben (max. 7 kg Baumwolle, bei Pflegeleicht nur ca. halb voll).
 
