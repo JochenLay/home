@@ -19,4 +19,10 @@ Unterm Bett ist alles leer. Schulsachen von Klasse 1 bis 10 sind aussortiert, Wi
 - [ ] Wenige Säcke → blaue Tonne nach und nach. Große Menge → **Wertstoffhof** (Papier meist kostenlos) oder großer Papiercontainer
 - [ ] Persönliche Unterlagen (Gutachten, Atteste, Briefe mit Daten) nicht ins Altpapier, sondern **schreddern**
 
+## Abgabe in Prüm
+- Zuständig: **A.R.T. Trier** (Zweckverband Abfallwirtschaft Region Trier), Service-Telefon **0651 9491 414** (Mo–Sa 8–16 Uhr)
+- **Blaue Papiertonne**: nach und nach füllen, kostenlos
+- **REMONDIS Standort Prüm**, Auf Rietzfeld 1: laut Verzeichnis Mo–Fr 8–16 Uhr. ⚠️ Vorher anrufen, ob dort Privatleute Altpapier abgeben können und ob es kostenlos ist
+- Größter A.R.T.-Wertstoffhof: Trier (Mo–Sa 8–16 Uhr), für Prüm aber weit
+
 ## Notizen & Entscheidungen
