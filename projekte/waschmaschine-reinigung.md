@@ -45,6 +45,11 @@ Mögliche Ursachen, der Reihe nach prüfen:
 - [ ] **Ablaufschlauch prüfen:** Er muss in einem **Bogen hoch** geführt sein (ca. 60–100 cm) und darf **nicht tief im Abfluss stecken**. Sonst zieht Abwasser oder Kanalgeruch in die Maschine zurück
 - [ ] Weitere leere Kochwäschen mit 90 °C (siehe oben)
 - [ ] Wäsche **sofort** nach Programmende rausnehmen und luftig, schnell trocknen
+- Befund 22.11.: riecht **schon nass**, gewaschen mit **40 °C und Flüssigwaschmittel**, Kochwäsche mit Reiniger war gelaufen
+- [ ] **Gegentest:** 2–3 frisch riechende Handtücher allein waschen. Riechen sie danach muffig → Ursache ist die Maschine. Riechen sie frisch → die alte Wäsche ist belastet
+- [ ] Leere 90-°C-Wäsche mit voller Dosis **Vollwaschmittel als Pulver**
+- [ ] Belastete Wäsche einmal „entkeimen“: Weißes, Handtücher und Bettwäsche bei 60 °C mit Pulver-Vollwaschmittel, Buntes bei 40–60 °C mit Colorpulver und Sauerstoffbleiche (Fleckensalz)
+- [ ] Künftig: Flüssigwaschmittel nur für Feines und Dunkles. Sonst Pulver verwenden und regelmäßig 60 °C
 
 ## Rumpeln beim Schleudern (manchmal)
 **Vermutete Ursache:** vor allem bei sehr voller Trommel, also **Überladung bzw. Unwucht**. Regel: Über der Wäsche muss oben **eine Hand breit Platz** bleiben (max. 7 kg Baumwolle, bei Pflegeleicht nur ca. halb voll).
