@@ -21,5 +21,6 @@ Zentrale Sammlung für alles rund ums Wohnen: Projekte, Räume, Verträge, Konta
 |---|---|---|---|
 | [Waschmaschine reinigen & reparieren](projekte/waschmaschine-reinigung.md) | 🔨 In Arbeit | hoch | gering |
 | [Trockner reparieren](projekte/trockner-reparatur.md) | 📋 Geplant | mittel | gering |
+| [Schulsachen unterm Bett aussortieren](projekte/schulsachen-aussortieren.md) | 📋 Geplant | mittel | 0 € |
 
 Status: 💡 Idee · 📋 Geplant · 🔨 In Arbeit · ⏸️ Pausiert · ✅ Erledigt
